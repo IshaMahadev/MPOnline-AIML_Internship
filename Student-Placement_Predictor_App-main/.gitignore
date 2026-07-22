@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+student-placement-prediction/
+train.py
+
+# Datasets
+*.csv
+*.tsv
+*.parquet
+
+# Sensitive files
+*.key
+*.pem
+secrets.json
+*.env
